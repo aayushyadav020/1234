@@ -153,35 +153,17 @@ export default function Home() {
                 <a href="/resume.pdf" download>Download Resume</a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a
-                  href="https://github.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="GitHub"
-                  className={`transition-colors ${theme === 'dark' ? 'text-white hover:text-black' : 'text-black hover:text-white'}`}
-                >
+                <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a
-                  href="https://linkedin.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="LinkedIn"
-                  className={`transition-colors ${theme === 'dark' ? 'text-white hover:text-black' : 'text-black hover:text-white'}`}
-                >
+                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a
-                  href="https://twitter.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Twitter"
-                  className={`transition-colors ${theme === 'dark' ? 'text-white hover:text-black' : 'text-black hover:text-white'}`}
-                >
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                   <Twitter className="h-5 w-5" />
                 </a>
               </Button>
