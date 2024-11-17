@@ -58,7 +58,12 @@ export default function ContactForm() {
             aria-label="Your Message"
           />
         </div>
-        <Button type="submit" className="w-full bg-black text-white hover:bg-white-800">Send Message</Button>
+        <Button
+          type="submit"
+          className="w-full bg-black text-white hover:bg-gray-800 dark:bg-white dark:text-black dark:hover:bg-gray-300"
+        >
+          Send Message
+        </Button>
       </form>
     </section>
   )
