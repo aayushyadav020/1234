@@ -3,22 +3,22 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 
 const projects = [
   {
-    title: 'E-commerce Platform',
-    description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB.',
-    projectUrl: 'https://ecommerce-project.com',
-    githubUrl: 'https://github.com/johndoe/ecommerce-project',
+    title: 'EV Car Landing Page',
+    description: 'A sleek and modern landing page for an electric vehicle car brand built with React.js.',
+    projectUrl: 'https://car-react-website.netlify.app/', // EV car live project URL
+    githubUrl: 'https://github.com/aayushyadav020/car-website',
   },
   {
-    title: 'Task Management App',
-    description: 'A React Native mobile app for efficient task management and collaboration.',
-    projectUrl: 'https://taskmanager-app.com',
-    githubUrl: 'https://github.com/johndoe/task-manager-app',
+    title: 'Notes Maker',
+    description: 'A note-taking app built with EJS, Node.js, Express, and MongoDB for storing and managing notes.',
+    projectUrl: 'https://notes-maker-app.com', // Replace with the live link for the Notes Maker project if available
+    githubUrl: 'https://github.com/aayushyadav020/NotesMaker',
   },
   {
-    title: 'AI-powered Chatbot',
-    description: 'An intelligent chatbot built with Python and natural language processing.',
-    projectUrl: 'https://ai-chatbot.com',
-    githubUrl: 'https://github.com/johndoe/ai-chatbot',
+    title: 'Freelance Landing Page',
+    description: 'A simple and elegant landing page for a freelance portfolio, built with HTML, CSS, and JavaScript.',
+    projectUrl: 'https://aayushyadav020.github.io/freelance/', // Freelance live project URL
+    githubUrl: 'https://github.com/aayushyadav020/freelance',
   },
 ]
 
