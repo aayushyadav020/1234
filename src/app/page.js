@@ -144,9 +144,7 @@ export default function Home() {
             <h1 className="text-4xl font-bold mb-4">Aayush Yadav</h1>
             <p className="text-xl text-muted-foreground mb-4">Full Stack Developer</p>
             <p className="max-w-2xl mb-6">
-              I'm a passionate Full Stack Developer with expertise in building modern web applications.
-              With a strong foundation in both front-end and back-end technologies, I create seamless,
-              user-friendly experiences that solve real-world problems.
+              I’m a 3rd-year engineering student and full-stack developer. I specialize in building responsive frontend websites.
             </p>
             <div className="flex flex-wrap gap-4">
               <Button className="bg-black text-white hover:bg-gray-800 dark:bg-white dark:text-black dark:hover:bg-gray-300" asChild>
