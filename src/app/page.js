@@ -149,7 +149,7 @@ export default function Home() {
               user-friendly experiences that solve real-world problems.
             </p>
             <div className="flex flex-wrap gap-4">
-              <Button className="bg-black text-white hover:bg-gray-800" asChild>
+              <Button className="bg-black text-white hover:bg-gray-800 dark:bg-white dark:text-black dark:hover:bg-gray-300" asChild>
                 <a href="/resume.pdf" download>Download Resume</a>
               </Button>
               <Button variant="outline" size="icon" asChild>
